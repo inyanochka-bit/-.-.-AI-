@@ -166,7 +166,7 @@ AI-конвейер из 8 инструментов позволяет:
 
 ## 📽️ Презентация
 
-Презентация результатов (15 слайдов): content://com.yandex.browser.FileProvider/downloads/erastova_presentation_2026%20(1).html
+Презентация результатов (15 слайдов): content://media/external/file/6560
 
 ---
 
